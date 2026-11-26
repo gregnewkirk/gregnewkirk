@@ -5,7 +5,7 @@ Molecular biologist. CRISPR/Cas9 genome editing and nanotechnology at the bench,
 - More than a decade at the bench in industry and academia (Cibus, BASF, UC Riverside).
 - Ph.D., Microbiology, UC Riverside: nanomaterial DNA delivery to chloroplasts. Papers in *Nature Nanotechnology* and *ACS Nano*.
 - Inventor on U.S. Patent 11,186,845 B1, a nanoparticle gene-delivery system.
-- Founder of [Priori Intelligence](https://prioriintelligence.com), which brings scientific judgment to data and evidence, so decisions rest on what the science supports.
+- Founder of [Priori Intelligence](https://prioriintelligence.com): scientific judgment for data and evidence. Product development for science-based startups, scientific due diligence for investors, and [What's In My County](https://whatsinmycounty.com), a public map of health data for every U.S. county.
 
 ## What I build
 
