@@ -17,6 +17,7 @@ Public tools that put real data in front of people, with the source and date att
 |---|---|
 | [What's In My County](https://whatsinmycounty.com) | A national county-by-county public health map that combines 58 public data feeds behind automated quality checks. Counties with no published value are marked as no data, never shown as zero. |
 | [SAFE Action legislative tracker](https://scienceandfreedom.com) | Follows about 9,400 bills and 7,900 legislators across all 50 states and refreshes daily. A label is published only when a language-model reading that quotes the bill, a text classifier (94% cross-validated accuracy against a 71% baseline) and the sponsors' voting record agree. Source: [scienceandfreedom/SAFE-Action-Website](https://github.com/scienceandfreedom/SAFE-Action-Website). |
+| [scoringutils-py](https://github.com/gregnewkirk/scoringutils-py) | An unofficial Python port of the R package scoringutils, for evaluating probabilistic forecasts. Parity-tested against scoringutils 2.3.0. Open source and actively maintained. |
 
 ## Contact
 
